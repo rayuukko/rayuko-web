@@ -14,4 +14,5 @@ A web browser that's pretty bad
 
 -source is fully available and free to edit (GNU GPL)
 
-# download the source or full package today, it won't be updated that's for sure
+# DOWNLOAD AT YOUR OWN RISK, I AM NOT LIABLE IF SOMETHING GOES WRONG.
+# THIS PRODUCT IS GIVEN TO YOU WITH NO WARRANTY, SO IF IT BREAKS, FIX IT YOURSELF.
