@@ -12,7 +12,7 @@ A web browser that's pretty bad
 
 -you will inevitably get a virus, there is no Safe Browsing
 
--source is fully available and free to edit (GNU GPL)
+-source is fully available and free to edit (BSD 3 clause)
 
 # DOWNLOAD AT YOUR OWN RISK, I AM NOT LIABLE IF SOMETHING GOES WRONG.
 # THIS PRODUCT IS GIVEN TO YOU WITH NO WARRANTY, SO IF IT BREAKS, FIX IT YOURSELF.
